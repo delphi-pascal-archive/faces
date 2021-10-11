@@ -1,0 +1,13 @@
+Faces (создание значков в виде людей)
+
+Автор : AbverSoft
+Mail  : zaidov@mail.ru
+
+Для работы с компеляции исходника необходимо следующие компоненты:
+
+1 AlphaControls v6.57 (http://www.alphaskins.com/index_rus.php)
+2 JEDI VCL for Delphi (http://sourceforge.net/projects/jvcl/)
+3 EasyListview (http://www.soft-gems.net:8080/browse/Mustangpeak/EasyListview)
+4 PNG Component.
+
+Если Вы улучшели данный исходник или добавели новые лица то поделитель.
